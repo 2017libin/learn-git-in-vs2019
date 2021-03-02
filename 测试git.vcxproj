@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="文件1.cpp" />
     <ClCompile Include="文件3.cpp" />
+    <ClCompile Include="文件4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
